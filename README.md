@@ -1,1 +1,1 @@
-# project_restaurant_manager
+# project_hotels_manager
